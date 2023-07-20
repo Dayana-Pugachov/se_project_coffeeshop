@@ -10,6 +10,11 @@
   line-height: 30px;
 }
 
+.card__list {
+  margin: 0;
+  padding: 0;
+}
+
 .card__list-item {
   list-style-type: none;
   padding-bottom: 16px;
