@@ -48,6 +48,7 @@
   color: white;
   background-color: #2f80ed;
   transition: opacity 0.3s linear;
+  cursor: pointer;
 }
 
 .form__button:hover {

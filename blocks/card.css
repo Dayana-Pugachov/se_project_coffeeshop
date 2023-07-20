@@ -24,9 +24,13 @@
   line-height: 20px;
 }
 
+.card__list-item:last-of-type {
+  padding-bottom: 0;
+}
+
 .card__list-divider {
   margin-left: 10px;
   margin-right: 10px;
   flex-grow: 1;
-  border-bottom: 1px #838383 solid;
+  border-bottom: 1px solid;
 }

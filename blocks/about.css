@@ -36,7 +36,7 @@
   margin: 119px 80px 173px auto;
 }
 
-.about__content-paragraph {
+.about__paragraph {
   max-width: 660px;
   margin: 0 0 20px 0;
   font-family: "Noto Serif", "Times New Roman", serif;
@@ -44,7 +44,7 @@
   line-height: 30px;
 }
 
-.about__content-paragraph:last-of-type {
+.about__paragraph:last-of-type {
   margin: 0;
 }
 
