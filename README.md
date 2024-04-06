@@ -13,8 +13,22 @@ The project is a landing page of an imaginary coffee shop.
 - A custom form
 - CSS animation and transform
 
+## Project's screenshots
+
+![Home Page](./images/screenshot1.png "Home page")
+
+![Recipes Page](./images/screenshot2.png "Recipes page")
+
+![The Form](./images/screenshot3.png "The form")
+
+![Menu Page](./images/screenshot3.png "Menu Page")
+
 ## Plan on improving the project
 
-- Making the header page more animated. Perhaps, making the circles of the background image have a floating/mooving animation.
+- Making the header page more animated. Perhaps, making the circles of the background image have a floating/moving animation.
 
 - Adding 2 more videos to the "Recipes" section.
+
+## You're welcome to visit the page yourself:
+
+[Triple Peaks Coffeeshop - Here!](https://dayana-pugachov.github.io/se_project_coffeeshop/)
