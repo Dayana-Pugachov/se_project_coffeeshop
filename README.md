@@ -21,7 +21,7 @@ The project is a landing page of an imaginary coffee shop.
 
 ![The Form](./images/screenshot3.png "The form")
 
-![Menu Page](./images/screenshot3.png "Menu Page")
+![Menu Page](./images/screenshot4.png "Menu Page")
 
 ## Plan on improving the project
 
@@ -31,4 +31,4 @@ The project is a landing page of an imaginary coffee shop.
 
 ## You're welcome to visit the page yourself:
 
-[Triple Peaks Coffeeshop - Here!](https://dayana-pugachov.github.io/se_project_coffeeshop/)
+[Triple Peaks Coffee Shop - Here!](https://dayana-pugachov.github.io/se_project_coffeeshop/)
